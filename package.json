@@ -1,0 +1,14 @@
+{
+  "name": "dapp-boiler",
+  "version": "0.0.0",
+  "description": "A boiler-plate repository for my dapp project setup.",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Tasio Victoria",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {},
+  "scripts": {}
+}

@@ -1,0 +1,11 @@
+node_modules
+yarn-error.log
+
+# @app
+packages/app/.next
+packages/app/out
+
+# @contracts
+packages/contracts/cache
+packages/contracts/artifacts
+packages/contracts/typechain
